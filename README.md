@@ -1,2 +1,3 @@
 # My-second
-author-ramtha19
+this is my second git repository
+author-ramtha19.
